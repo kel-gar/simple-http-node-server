@@ -1,0 +1,25 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "bloc checkpoint 4 simple-http-node-server",
+  "main": "simple-http-node-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kel-gar/simple-http-node-server.git"
+  },
+  "keywords": [
+    "simple-http-node-server"
+  ],
+  "author": "Kelly Garry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kel-gar/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/kel-gar/simple-http-node-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
